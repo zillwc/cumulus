@@ -44,6 +44,7 @@ async function init() {
   });
 
   await moduleExecutionChain;
+  process.exit(0);
 }
 
 init();

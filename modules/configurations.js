@@ -3,10 +3,10 @@ const availableModules = [
     name: 'lgtv',
     enabled: true,
     initializationParameters: {
-      deviceMacAddress: '00:00:aa:00:0a:00',
+      deviceMacAddress: 'bc:30:d9:00:00:00',
     },
     executionParameters: {
-      mode: 'study',
+      mode: 'work',
     },
   },
 ];
